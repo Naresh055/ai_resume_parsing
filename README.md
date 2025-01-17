@@ -1,5 +1,8 @@
-AI-Powered Resume Parser
+
+## AI Analyzation
+
 The AI-Powered Resume Parser is a web-based application designed to streamline the recruitment process by analyzing resumes and providing actionable insights. Built using Streamlit, this application allows users to upload multiple resumes, define job requirements, and extract relevant candidate details.
+
 
 ### Key Features
 - **Job Customization:** Enter the desired job title and specify required skills for the role.
@@ -19,11 +22,13 @@ The AI-Powered Resume Parser is a web-based application designed to streamline t
 4. View the parsed details in a table format, including skills match percentage.
 
 ### Example Screenshots
-### Example Screenshots
 
 1. **Resume Upload Page:**
-   ![Resume Upload Page](https://github.com/Naresh055/ai_resume_parsing/blob/main/WhatsApp%20Image%202025-01-17%20at%2019.21.55.jpeg?raw=true)
+   ![Resume Upload Page](https://github.com/Naresh055/ai_resume_parsing/blob/main/Upload%20Resume.jpeg?raw=true)
 
 
 2. **Parsed Results Page:**
+   ![Parsed Results Page](https://github.com/Naresh055/ai_resume_parsing/blob/main/Parsed%20Results.jpeg?raw=true)
+
+2. **Details of Individuals:**
    ![Parsed Results Page](https://github.com/Naresh055/ai_resume_parsing/blob/main/Parsed%20Results.jpeg?raw=true)
