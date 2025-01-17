@@ -19,9 +19,11 @@ The AI-Powered Resume Parser is a web-based application designed to streamline t
 4. View the parsed details in a table format, including skills match percentage.
 
 ### Example Screenshots
+### Example Screenshots
 
 1. **Resume Upload Page:**
-   ![Resume Upload Page](image1.png)
+   ![Resume Upload Page](images/WhatsApp%20Image%202025-01-17%20at%2019.21.55.jpeg)
+
 
 2. **Parsed Results Page:**
    ![Parsed Results Page](image2.png)
