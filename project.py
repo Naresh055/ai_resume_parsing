@@ -8,7 +8,7 @@ import json
 import pandas as pd
 
 # Configure the Gemini API
-genai.configure(api_key="AIzaSyDXZPliVK0af7yXTp-TdetcPiESOS4JX3U")
+genai.configure(api_key="API-KEY")
 
 # Function to extract text from resumes
 def extract_text(file):
