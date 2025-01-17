@@ -22,7 +22,7 @@ The AI-Powered Resume Parser is a web-based application designed to streamline t
 ### Example Screenshots
 
 1. **Resume Upload Page:**
-   ![Resume Upload Page](images/WhatsApp%20Image%202025-01-17%20at%2019.21.55.jpeg)
+   ![Resume Upload Page](https://github.com/Naresh055/ai_resume_parsing/blob/main/WhatsApp%20Image%202025-01-17%20at%2019.21.55.jpeg?raw=true)
 
 
 2. **Parsed Results Page:**
