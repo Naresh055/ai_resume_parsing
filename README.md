@@ -31,4 +31,4 @@ The AI-Powered Resume Parser is a web-based application designed to streamline t
    ![Parsed Results Page](https://github.com/Naresh055/ai_resume_parsing/blob/main/Parsed%20Results.jpeg?raw=true)
 
 2. **Details of Individuals:**
-   ![Parsed Results Page](https://github.com/Naresh055/ai_resume_parsing/blob/main/Parsed%20Results.jpeg?raw=true)
+   ![Parsed Results Page](https://github.com/Naresh055/ai_resume_parsing/blob/main/Deatils.jpeg?raw=true)
